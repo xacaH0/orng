@@ -1,7 +1,7 @@
 {
     "name": "NFT #5",
     "description": "Really awesome description!",
-    "image": "https://quirky-haibt-c09235.netlify.app/api/5.png",
+    "image": "https://keen-meringue-467d53.netlify.app/5.png",
     "edition": 5,
     "collection": {
         "name": "Cool collection",
@@ -11,7 +11,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://quirky-haibt-c09235.netlify.app/api/5.png",
+                "uri": "https://keen-meringue-467d53.netlify.app/5.png",
                 "type": "image/png"
             }
         ],
